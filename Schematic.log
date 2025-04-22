@@ -1,6 +1,6 @@
 LTspice 24.1.5 for Windows
 Circuit: Z:\var\home\fede\GitRepo\AtaBrakeLight\Schematic.net
-Start Time: Tue Apr 22 22:34:49 2025
+Start Time: Tue Apr 22 23:02:53 2025
 solver = Normal
 Maximum thread count: 16
 tnom = 27
@@ -26,10 +26,11 @@ Gmin = 2.70769e-13
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
-Total elapsed time: 0.266 seconds.
+Total elapsed time: 0.330 seconds.
 
 Files loaded:
 Z:\var\home\fede\GitRepo\AtaBrakeLight\Schematic.net
+C:\users\steamuser\AppData\Local\LTspice\lib\cmp\standard.dio
 C:\users\steamuser\AppData\Local\LTspice\lib\cmp\standard.bjt
 C:\users\steamuser\AppData\Local\LTspice\lib\sub\LT1720.sub
 
