@@ -1,0 +1,12 @@
+* QBLP601-R5 Red LED - LTspice model
+.model QBLP601_R5 D(
++ IS=1e-20
++ N=1.8
++ RS=25
++ CJO=1p
++ VJ=0.7
++ M=0.5
++ TT=0.5u
++ BV=25
++ IBV=1u
+)
